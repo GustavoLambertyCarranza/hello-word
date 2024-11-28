@@ -1,6 +1,5 @@
 print('Hello World!')
 
 def greet():
-    print("Welcome to the Hello World Program!")
+    print("Welcome to the updated Hello World Program!")
 
-greet()
